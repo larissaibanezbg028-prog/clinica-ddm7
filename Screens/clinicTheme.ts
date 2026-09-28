@@ -1,0 +1,16 @@
+export const clinicColors = {
+    ink: '#30233F',
+    green: '#7550B5',
+    pale: '#E9DEF4',
+    background: '#F3EEF8',
+    muted: '#71677C',
+    line: '#DED4E8',
+    white: '#FFFFFF',
+    coral: '#B85C54',
+    gold: '#E7BD52',
+    panel: '#38294B',
+    panelMuted: '#D5C7E2',
+    panelSubtle: '#BDAECF',
+    field: '#FCFAFD',
+    dangerSurface: '#FBECEA',
+};
